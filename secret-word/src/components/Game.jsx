@@ -15,7 +15,7 @@ const Game = ({ verifyLetter }) => {
       </div>
       <div className="letterContainer">
         <p>Tente adivinhar uma letra da palavra:</p>
-        <form action="">
+        <form >
           <input type="text" name="letter" maxLength="1" required />
           <button>Jogar!</button>
         </form>
