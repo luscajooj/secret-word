@@ -5,7 +5,7 @@ Um jogo simples de adivinhação de palavras feito com **ReactJS**. O objetivo �
 
 ## 🖼️ Preview
 
-![Secret Word Screenshot](https://raw.githubusercontent.com/luscajooj/secret-word/main/src/assets/screenshot.png)
+![Secret Word Screenshot](https://raw.githubusercontent.com/luscajooj/secret-word/main/screenshot.png)
 
 ---
 
